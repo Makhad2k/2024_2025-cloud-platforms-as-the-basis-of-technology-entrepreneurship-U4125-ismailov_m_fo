@@ -1,10 +1,11 @@
-<img width="1047" alt="image" src="https://github.com/user-attachments/assets/2a0b1474-c203-438a-9498-a5fbce41f621" />Шаг 1.
+Шаг 1.
 В разделе IAM & Admin на вкладке Service Accounts создан новый сервисный аккаунт.
 
 <img width="910" alt="image" src="https://github.com/user-attachments/assets/a7dc1a53-ee04-4470-b48d-df4d0e19c2e2" />
 
 Шаг 2.
 При создании задано название сервисного аккаунта в соответствии с маской, указанной в лабораторной работе, затем выполнен переход к следующему этапу.
+
 <img width="597" alt="image" src="https://github.com/user-attachments/assets/4d6699d7-21c0-4403-97a0-33be6764ea47" />
 
 Шаг 3.
